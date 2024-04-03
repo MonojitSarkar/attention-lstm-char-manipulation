@@ -4,7 +4,7 @@ This is a simple work to understand the working of Attention Mechanism in LSTM. 
 
 ## Reverse an input sequence
 ### monojitcnn -> nnctijonom
-![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/reverse_animation.gif)
+![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/reverse_animation(1).gif)
 
 ## Left shift an input sequence by 4 characters
 ### monojitcnn -> jitcnnmono
