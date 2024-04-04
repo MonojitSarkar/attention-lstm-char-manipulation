@@ -23,3 +23,6 @@ This is a simple work to understand the working of Attention Mechanism in LSTM. 
 ## Human Readable Dates to Machine Translated Dates
 ### Input: Thrusday, October 13 2011 --> Output 13-10-2011
 ![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/date_attention.gif)
+
+## Attention Heatmap for various Human Readable Date Formats
+![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/attention_weights_different_formats.png)
