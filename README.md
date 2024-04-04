@@ -29,5 +29,9 @@ This is a simple work to understand the working of Attention Mechanism in LSTM. 
 ### Output 13-10-2011
 ![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/date_attention.gif)
 
+### Input: 28 March 2005
+### Output 28-03-2005
+![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/date_attention_2.gif)
+
 ## Attention Heatmap for various Human Readable Date Formats
 ![Alt Text](https://github.com/MonojitSarkar/attention-lstm-char-manipulation/blob/main/gifs/attention_weights_different_formats.png)
